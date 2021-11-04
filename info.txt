@@ -1,0 +1,3 @@
+1) collaborative filtering
+https://realpython.com/build-recommendation-engine-collaborative-filtering/
+2)
